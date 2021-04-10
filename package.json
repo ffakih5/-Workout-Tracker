@@ -12,8 +12,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3",
-    "mongoose": "^5.3.16",
-    "morgan": "^1.9.1"
-  }
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3",
+    "morgan": "^1.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffakih5/-Workout-Tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ffakih5/-Workout-Tracker/issues"
+  },
+  "homepage": "https://github.com/ffakih5/-Workout-Tracker#readme"
 }

@@ -28,8 +28,7 @@ module.exports = (app) => {
                     }
                 }
             }
-        ])
-            .limit(7)
+        ]).limit(7)
             .then(result => {
                 res.json(result)
             }).catch(err => {

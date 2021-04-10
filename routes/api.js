@@ -52,10 +52,13 @@ module.exports = (app) => {
             { _id: req.params.id },
             { $push: { exercises: req.body } },
             { new: true })
-            .then(updateWorkout);
-    })
-        .catch(err => {
-            res.json(err);
-        });
+            .then(updateWorkout => {
+                res.json(updateWorkout);
+            })
+            .catch(err => {
+                res.json(err);
+            });
+    });
+
 
 };

@@ -22,8 +22,10 @@ function generatePalette() {
 }
 
 function populateChart(data) {
-  console.log(populateChart);
+  //console.log(populateChart);
   let durations = data.map(({ totalDuration }) => totalDuration);
+  //console.log(data.map);
+
   let pounds = calculateTotalWeight(data);
   let workouts = workoutNames(data);
   const colors = generatePalette();
@@ -207,3 +209,5 @@ function workoutNames(data) {
 
 // get all workout data from back-end
 API.getWorkoutsInRange().then(populateChart);
+console.log(populateChart);
+console.log(getWorkoutsInRange);

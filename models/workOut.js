@@ -28,6 +28,9 @@ const WorkoutSchema = newSchema({
             },
             sets: {
                 type: Number,
+            },
+            distance: {
+                type: Number
             }
 
         }
@@ -39,7 +42,4 @@ const WorkoutSchema = newSchema({
 const Workout = mongoose.model("Workout", WorkoutSchema);
 
 module.exports = Workout;
-
-If the exercise is a cardio exercise, I should be able to track my distance traveled.
-
 

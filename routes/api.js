@@ -8,6 +8,15 @@ module.exports = (app) => {
                     totalDuration: { $sum: "$exercises.duration" }
                 }
             },
-        ])
-    })
+            {
+                $sort: { day: -1 }
+            }
+        ]).then(result => {
+            res.json(result)
+        }).catch(err => {
+            res.json(err);
+        });
+    });
+
+
 }

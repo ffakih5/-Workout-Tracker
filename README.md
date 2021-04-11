@@ -23,13 +23,13 @@ _THEN you can visit the Dashboard to view the stats of your last seven workouts.
 
 ## Built with
 - <b>Chart.js</b>
-- CSS
-- Express
-- HTML
-- JavaScript
-- Mongo DB Atlast
-- Mongoose
-- Node.js
+- <b>CSS</b>
+- <b>Express</b>
+- <b>HTML</b>
+- <b>JavaScript</b>
+- <b>Mongo DB Atlast</b>
+- <b>Mongoose</b>
+- <b> Node.js</b>
 
 ## App in action
 

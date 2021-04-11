@@ -29,7 +29,7 @@ _THEN you can visit the Dashboard to view the stats of your last seven workouts.
 - Node.js
 
 ## App in action
-<img src="https://drive.google.com/file/d/1YeSCSvPyEZZ4ZO3TVF9hoUtPuHJ8BlXs/view?usp=sharing">
+<img src="images/Workout-Tracker walthrough.mov">
   Workout-Tracker App Walkthrough
 
 

@@ -1,4 +1,5 @@
-# Workout-Tracker
+# Workout-Tracker 🎯
+<img src="https://img.shields.io/badge/Workout--Tracker-NodeExpress-blueviolet">
 
 ## Description
 

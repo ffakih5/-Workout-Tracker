@@ -22,7 +22,7 @@ _THEN you can visit the Dashboard to view the stats of your last seven workouts.
 [GitHub Pages](https://ffakih5.github.io/-Workout-Tracker/)
 
 ## Built with
-- Chart.js
+- <b>Chart.js</b>
 - CSS
 - Express
 - HTML

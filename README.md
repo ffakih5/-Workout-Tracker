@@ -29,10 +29,10 @@ _THEN you can visit the Dashboard to view the stats of your last seven workouts.
 - Node.js
 
 ## App in action
-![homepage]("public/images/homepage.png")
-![exercise]("public/images/addexercise.png")
-![statsDashboard]("public/images/statsDash.png")
-![Workout-Tracker-Walkthrough]("https://user-images.githubusercontent.com/73615662/114293617-0a85fa80-9adb-11eb-92f4-062411f5cac0.mov")
+![homepage](public/images/homepage.png)
+![exercise](public/images/addexercise.png)
+![statsDashboard](public/images/statsDash.png)
+![Workout-Tracker-Walkthrough](https://user-images.githubusercontent.com/73615662/114293617-0a85fa80-9adb-11eb-92f4-062411f5cac0.mov)
 
 
 

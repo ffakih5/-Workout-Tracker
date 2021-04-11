@@ -32,10 +32,11 @@ _THEN you can visit the Dashboard to view the stats of your last seven workouts.
 - Node.js
 
 ## App in action
+
+[Workout-Tracker-Walkthrough](https://drive.google.com/file/d/1YeSCSvPyEZZ4ZO3TVF9hoUtPuHJ8BlXs/view?usp=sharing)
 ![homepage](public/images/homepage.png)
 ![exercise](public/images/addexercise.png)
 ![statsDashboard](public/images/statsDash.png)
-[Workout-Tracker-Walkthrough](https://drive.google.com/file/d/1YeSCSvPyEZZ4ZO3TVF9hoUtPuHJ8BlXs/view?usp=sharing)
 
 
 

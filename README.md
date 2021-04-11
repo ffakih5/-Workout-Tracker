@@ -35,7 +35,7 @@ _THEN you can visit the Dashboard to view the stats of your last seven workouts.
 ![homepage](public/images/homepage.png)
 ![exercise](public/images/addexercise.png)
 ![statsDashboard](public/images/statsDash.png)
-![Workout-Tracker-Walkthrough](https://drive.google.com/file/d/1YeSCSvPyEZZ4ZO3TVF9hoUtPuHJ8BlXs/view?usp=sharing)
+[Workout-Tracker-Walkthrough](https://drive.google.com/file/d/1YeSCSvPyEZZ4ZO3TVF9hoUtPuHJ8BlXs/view?usp=sharing)
 
 
 

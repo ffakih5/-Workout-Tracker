@@ -12,10 +12,8 @@ module.exports = (app) => {
                 $sort: { day: -1 }
             }
         ]).then(result => {
-            console.log(`<<<<<<<< -------- workouts sending result: ${result} -------- >>>>>>>>`);
             res.json(result)
         }).catch(err => {
-            console.log(`<<<<<<<< -------- workouts failed with error: ${err} -------- >>>>>>>>`);
             res.json(err);
         });
     });
